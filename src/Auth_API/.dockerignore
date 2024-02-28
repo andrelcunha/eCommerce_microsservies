@@ -1,0 +1,10 @@
+# Ignore files and directories
+node_modules/
+*.log
+*.tmp
+
+# Exclude specific files
+.env
+
+# Exclude all .md files except README.md
+*.md

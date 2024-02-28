@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "node": "^20.11.1"
+  },
+  "name": "auth_api",
+  "version": "0.0.1",
+  "description": "A microservice API ",
+  "main": "./src/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelcunha/eCommerce_microsservies.git"
+  },
+  "keywords": [
+    "API",
+    "microservice",
+    "nodejs",
+    "fastify",
+    "jwt"
+  ],
+  "author": "Andre Luis da Cunha <andreluiscunha81@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrelcunha/eCommerce_microsservies/issues"
+  },
+  "homepage": "https://github.com/andrelcunha/eCommerce_microsservies#readme"
+}
