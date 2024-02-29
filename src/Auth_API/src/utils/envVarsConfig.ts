@@ -7,7 +7,7 @@ dotenv.config({
   path: envParh,
 });
 
-export const config = {
+export const envVars = {
   HOST: process.env.HOST,
   PORT: process.env.PORT,
 };
